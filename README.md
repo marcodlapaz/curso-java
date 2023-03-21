@@ -5,3 +5,6 @@ Los temas están enfocados en un concepto específico pero aquí los he dividido
 - Primeros pasos
 - Variables en Java
 - Tipos de datos en Java
+- Operaciones aritméticas
+- Operadores de comparación y lógicos
+- Cadenas de caracteres en Java
