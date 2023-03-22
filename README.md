@@ -8,3 +8,6 @@ Los temas están enfocados en un concepto específico pero aquí los he dividido
 - Operaciones aritméticas
 - Operadores de comparación y lógicos
 - Cadenas de caracteres en Java
+- Arreglos en Java
+- Métodos de arreglos (.push() , .pop() , .shift() , .unshift())
+- Variables globales y locales
