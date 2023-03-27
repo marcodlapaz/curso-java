@@ -11,3 +11,6 @@ Los temas están enfocados en un concepto específico pero aquí los he dividido
 - Arreglos en Java
 - Métodos de arreglos (.push() , .pop() , .shift() , .unshift())
 - Variables globales y locales
+- Funciones en Java
+- Condicionales en Java
+- Sentencias Switch en Java
